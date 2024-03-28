@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftArrow.Common", "SwiftArrow.Common\SwiftArrow.Common.csproj", "{53636FE6-1CFD-467B-8238-E87380A38C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftArrow.SampleConsoleApp", "SwiftArrow.SampleConsoleApp\SwiftArrow.SampleConsoleApp.csproj", "{F54D4B65-772A-46BF-BB7E-61326A99A94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53636FE6-1CFD-467B-8238-E87380A38C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53636FE6-1CFD-467B-8238-E87380A38C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53636FE6-1CFD-467B-8238-E87380A38C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53636FE6-1CFD-467B-8238-E87380A38C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54D4B65-772A-46BF-BB7E-61326A99A94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54D4B65-772A-46BF-BB7E-61326A99A94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54D4B65-772A-46BF-BB7E-61326A99A94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54D4B65-772A-46BF-BB7E-61326A99A94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A44D99B-6CDE-4215-8211-7DB2A630A6C2}
+	EndGlobalSection
+EndGlobal
